@@ -1,0 +1,1 @@
+# 09-CRUD-Movel-com-Supabase---Fogo-Baixo-App-Receitas
